@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Common",
+        "repositoryURL": "https://github.com/w9i/Common",
+        "state": {
+          "branch": null,
+          "revision": "43ac749ff2ddf46e3e7588746d23e1243a3f99f0",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "Domain",
+        "repositoryURL": "https://github.com/w9i/Domain1",
+        "state": {
+          "branch": null,
+          "revision": "e68620e89cc86762196a4bfffadd6d618a6cc2ed",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
